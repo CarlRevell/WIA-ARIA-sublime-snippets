@@ -13,6 +13,7 @@ Use
 
 Within HTML, type `role{tab}` and pick the WIA-ARIA landmark role you want.
 
+These snippets are more to jog memories of the ARIA landmark role options rather than to save much typing.
 
 References
 ==========
