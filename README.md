@@ -6,12 +6,12 @@ WIA-ARIA Landmark Role Snippets for Sublime Text
 Installation
 ============
 
-Choose Preferences->Browse Packages... and open the User directory. Then copy the WIA-ARIA Landmark Roles directory from this repo into your User directory.
+Choose `Preferences->Browse Packages...` and open the `User` directory. Then copy the `WIA-ARIA Landmark Roles` directory from this repo into your `User` directory.
 
 Use
 ===
 
-Within HTML, type role{tab} and pick the WIA-ARIA landmark role you want.
+Within HTML, type `role{tab}` and pick the WIA-ARIA landmark role you want.
 
 
 References
