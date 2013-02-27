@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+role="application"
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>role</tabTrigger>
+    <description>application ARIA landmark</description>
+    <scope>text.html</scope>
+</snippet>

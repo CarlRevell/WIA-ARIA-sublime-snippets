@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+role="main"
+]]></content>
+    <tabTrigger>role</tabTrigger>
+    <description>main ARIA landmark</description>
+    <scope>text.html</scope>    
+</snippet>

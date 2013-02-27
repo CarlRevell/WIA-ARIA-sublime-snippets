@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+role="banner"
+]]></content>
+    <tabTrigger>role</tabTrigger>
+    <description>banner ARIA landmark</description>
+    <scope>text.html</scope>    
+</snippet>

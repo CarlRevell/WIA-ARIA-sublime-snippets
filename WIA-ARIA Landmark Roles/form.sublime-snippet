@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+role="form"
+]]></content>
+    <tabTrigger>role</tabTrigger>
+    <description>form ARIA landmark</description>
+    <scope>text.html</scope>
+</snippet>
